@@ -1,7 +1,7 @@
-reflex-ros-pkg
+reflex-beta-ros-pkg
 ======
 
-Electronics, Firmware, and Software for the Reflex Hand controller
+A snapshot (8/13/2015) of the electronics, firmware, and software for the Reflex Beta hand. New hand code has been released, which changes the command structure and has a variety of debugged improvements. The up-to-date hand code can be found at https://github.com/righthandrobotics/reflex-ros-pkg.
 
 firmware
 ------
